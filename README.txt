@@ -1,4 +1,4 @@
-Spring Travel Reference Application
+Spring Travel Reference Application -- Code taken from https://src.springframework.org/svn/spring-samples/travel/
 - demonstrates Spring Framework 3 with Web Flow 2.1
 
 NOTE: 
